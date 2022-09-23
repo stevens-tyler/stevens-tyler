@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevens-tyler
-- 👀 I’m interested in software development, data science, and video game design
-- 🌱 I’m currently learning GameMaker, Machine Learning, Assembly, and Abstract Algebra.
-- 💞️ I’m looking to collaborate on OOP projects
+- 👀 I’m interested in Software Development, Engineering, and Computer Graphics
+- 🌱 I’m currently learning Embedded Systems, 3D Mathematics, and Unreal Engine
+- 💞️ I’m looking to collaborate on graphics, teaching, consulting projects
 - 📫 How to reach me trstevens@ucsd.edu
 
 <!---
