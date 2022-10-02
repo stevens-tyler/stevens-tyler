@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevens-tyler
 - 👀 I’m interested in Software Development, Engineering, and Computer Graphics
-- 🌱 I’m currently learning Embedded Systems, 3D Mathematics, and Unreal Engine
-- 💞️ I’m looking to collaborate on graphics, teaching, consulting projects
+- 🌱 I’m currently learning .NET MAUI, 3D Mathematics, and Unity game engine
+- 💞️ I’m looking to collaborate on cross platform app development using the .Net framework
 - 📫 How to reach me trstevens@ucsd.edu
 
 <!---
